@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Which plants are contained in the formulation arjunarishta?",
+        "answer": "The arjunarishta formulations contains plants like Terminalia arjuna,Vitis vinifera,Woodfordia fruticosa,Madhuca longifolia",
+        "source":"ayurveda.json"
+    },
+    {
+        "question": "Which formulation contains the plant Vitis vinifera?",
+        "answer": "Formulations containing Vitis vinifera are arjunarishta,draksharishta,abhayarishta,dasamoolarishta,kutajarishta,saraswatarishta,chandanasava,usheerasava,drakshadi kashayam,drakshavaleha and pippalyasava",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "Does the formulation abhayarishta contain Terminalia chebula?",
+        "answer": "Yes, the formulation abhayarishta contains Terminalia chebula.",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "Which plants are known as ingredient of ashwagandharishta?",
+        "answer": "The ingredients of ashwagandharishta are Withania somnifera,Woodfordia fruticosa,Rubia cordifolia,Curcuma longa and Santalum album.",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "Which planta are contained in the formulation kumaryasava?",
+        "answer": "Kumaryasava contain plants such as Aloe vera,Woodfordia fruticosa,Terminalia chebula,Myristica fragrans and Saccharum officinarum.",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "Which formulation contains the plant Holarrhena pubescens? ",
+        "answer": "The plant Holarrhena pubescens are seen in kutajarishta.",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "What is an ingredient of the formulation ashokarishta?",
+        "answer": "The ingredients of ashokarishta are Saraca asoca,Woodfordia fruticosa,Cyperus rotundus and Zingiber officinale.",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "Which plant is found in the formulation saraswatarishta?",
+        "answer": "The plants in formulation saraswatarishta are Bacopa monnieri,Woodfordia fruticosa,Asparagus racemosus, Zingiber officinale and Vitis vinifera. ",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "Which formulation contains the plant Tinospora sinensis?",
+        "answer": "The formulation which uses Tinospora sinensis is amritarishta.",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "What is a plant ingredient of the formulation balarishta?",
+        "answer": "the formulation balarishta contains Sida cordifolia,Woodfordia fruticosa,Withania somnifera,Elettaria cardamomum and Saccharum officinarum.",
+        "source": "ayurveda.json"
+    },
+    {
+        "question": "Which phytochemical is found in the plant acacia catechu?",
+        "answer": "The plant acacia catechu contains phytochemicals such as D-Rhamnose,D-Galactose,\"L-Glucurono-3,6-lactone\",L-Arabinose,Leucocianidol,Isoquercitrin,Astragalin,Quercetin,Hyperoside,Quercitrin,L-(+)-Arabinose,D-Glucuronic Acid,3-o-beta-d-Galactopyranosyl-d-galactose,D-Rhamnose,Aldobiouronic acid,D-Galactose,L-Arabinose,L-Rhamnose,\"[3-[Hydroxy-(2,3,4,5,6-pentahydroxycyclohexyl)oxyphosphoryl]oxy-2-octadecanoyloxypropyl] octadecanoate\",\"1-(11Z-icosenoyl)-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphoethanolamine\",Oleic acid,Linoleic acid,\"3,6,7-Trihydroxy-2-(4-hydroxy-3-methoxyphenyl)chromen-4-one\",Aromadendrin,Kaempferol,Quercetin,Isorhamnetin,(+)-Gallocatechin,Taxifolin,Afzelechin,Cianidanol,Catechin tetramer,(-)-Epicatechin,Aromadendrin,3-Methoxyflavone,beta-L-Arabinose,Kaempferol,Quercetin,\"7,3',4'-Trihydroxy-3,8-dimethoxyflavone\",Fisetin,Isorhamnetin,Aldobiouronic acid,Tannic acid,Taxifolin,Afzelechin,Cianidanol,(-)-Epicatechin and Quercitrin.",
+        "source": "phytochemicals\\acacia_catechu.csv"
+    },
+    {
+        "question": "Does the plant aloe vera contain the phytochemical Chrysophanol?",
+        "answer": "Yes, the aloe vera contain phytochemical Chrysophanol.",
+        "source": "phytochemicals\\aloe_vera.csv"
+    },
+    {
+        "question": "Which plant contains the phytochemical Myristic acid?",
+        "answer": "Myristic acid can be seen in plants such as areca catechu,cinnamomum tamala,cyperus rotundus,elettaria cardamomum,glycyrrhiza glabra,gmelina arborea,justicia adhatoda,madhuca longifolia,mesua ferrea,myristica fragrans,nelumbo nucifera,phyllanthus emblica,saccharum officinarum,saraca asoca etc.",
+        "source": "phytochemicals\\areca_catechu.csv"
+    },
+    {
+        "question": "Which phytochemical is present in asparagus racemosus?",
+        "answer": "The plant asparagus racemosus contains phytochemicals such as Cyanin,Quercetin,Sarsasapogenin,Hyperoside,Rutin,Quercetin,Sarsasapogenin,beta-Sitosterol,Stigmasterol,D-Glucose,Hyperoside,Rutin,L-Rhamnose,beta-Sitosterol-beta-D-glucoside,Diosgenin,quercetin 3-O-glucuronide,beta-Sitosterol,Stigmasterol,Rutin,Asparagamine A,Asparanin B,Shatavarin I,Sarsasapogenin,beta-Sitosterol,Stigmasterol,D-Glucose,D-Galacturonic Acid,Kaempferol,Sarsasapogenin,Asparagamine A,Asparanin B,Shatavarin I,Diosgenin,Quercetin,Sarsasapogenin,\"3-(Galactosyloxy)-3',4',5,7-tetrahydroxyflavylium chloride\",Saccharin,beta-Sitosterol,Hyperoside and Rutin.",
+        "source": "phytochemicals\\asparagus_racemosus.csv"
+    },
+    {
+        "question": "What phytochemical is found in bacopa monnieri?",
+        "answer": "The plant bacopa monnieri contain phytochemicals such as Ascorbic acid,Nicotinic acid,Apigenin-7-o-glucuronide,Bacopaside I,Luteolin,Apigenin,Nicotine,Plantainoside B,Cynaroside,Betulinic acid,Bacoside B,Bacoside A,beta-Sitosterol,Stigmasterol,Stigmastanol,Dotriacontane,Jujubogenin,Heptacosane,Bacogenin a2,Bacogenin-a1,Pseudojujubogenin,L-(+)-Arabinose,Luteolin,Apigenin,Strychnine,Ascorbic acid,Bacosine,Nicotine,Nicotinic acid,Bacoside A3,Ebelin lactone,Hentriacontane,Triacontane,Octacosane,Nonacosane,4-Hydroxy-2H-pyran-3-carboxaldehyde,Stigmastenol,Cynaroside,Apigenin 7-glucuronide,Mannitol,Betulinic acid,Bacoside B,Bacoside A,beta-Sitosterol,Stigmasterol,D-Glucose and Stigmastanol.",
+        "source": "phytochemicals\\bacopa_monnieri.csv"
+    },
+    {
+        "question": "Which plant is known to contain Berberine?",
+        "answer": "The plant containing Berberine are berberis aristata and tinospora sinensis.",
+        "source":"phytochemicals\\tinospora_sinensis.csv"
+    },
+    {
+        "question": "Which plant contains the phytochemical Myrcene?",
+        "answer": "The plant containing Myrcene are chrysopogon zizanioides,cinnamomum tamala,cinnamomum verum,cuminum cyminum,curcuma longa,cyperus rotundus,elettaria cardamomum,mesua ferrea,myristica fragrans,nelumbo nucifera,piper longum,piper nigrum and zingiber officinale.",
+        "source":"phytochemicals\\chrysopogon_zizanioides.csv"
+    },
+    {
+        "question": "What phytochemical is known to be in acacia catechu?",
+        "answer": "The plant acacia catechu contains phytochemicals such as D-Rhamnose,D-Galactose,\"L-Glucurono-3,6-lactone\",L-Arabinose,Leucocianidol,Isoquercitrin,Astragalin,Quercetin,Hyperoside,Quercitrin,L-(+)-Arabinose,D-Glucuronic Acid,3-o-beta-d-Galactopyranosyl-d-galactose,D-Rhamnose,Aldobiouronic acid,D-Galactose,L-Arabinose,L-Rhamnose,\"[3-[Hydroxy-(2,3,4,5,6-pentahydroxycyclohexyl)oxyphosphoryl]oxy-2-octadecanoyloxypropyl] octadecanoate\",\"1-(11Z-icosenoyl)-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphoethanolamine\",Oleic acid,Linoleic acid,\"3,6,7-Trihydroxy-2-(4-hydroxy-3-methoxyphenyl)chromen-4-one\",Aromadendrin,Kaempferol,Quercetin,Isorhamnetin,(+)-Gallocatechin,Taxifolin,Afzelechin,Cianidanol,Catechin tetramer,(-)-Epicatechin,Aromadendrin,3-Methoxyflavone,beta-L-Arabinose,Kaempferol,Quercetin,\"7,3',4'-Trihydroxy-3,8-dimethoxyflavone\",Fisetin,Isorhamnetin,Aldobiouronic acid,Tannic acid,Taxifolin,Afzelechin,Cianidanol,(-)-Epicatechin and Quercitrin.",
+        "source": "phytochemicals\\acacia_catechu.csv"
+    },
+    {
+        "question": "Is Quercetin found in the plant asparagus racemosus?",
+        "answer": "Yes, Quercetin is found in the plant asparagus racemosus.",
+        "source": "phytochemicals\\asparagus_racemosus.csv"
+    },
+    {
+        "question": "Which plant contains the phytochemical Citric acid?",
+        "answer": "Plants containing citric acids are aloe vera,saccharum officinarum and woodfordia fruticosa.",
+        "source": "phytochemicals\\aloe_vera.csv"
+    },
+    {
+        "question": "Which human protein does the phytochemical 1,4-Benzoquinone target?",
+        "answer": "Phytochemical 1,4-Benzoquinone targets the human protein ACHE,ALDH1A1,APEX1,APOBEC3G,ARSA,BCHE,BLM,CASP1,CBX1,CDC25B,CES1,CES2,CXCL8,DHODH,EHMT2,FEN1,GMNN,HSD17B10,IDH1,IDO1,KCNH2,KDM4A,MAOA,MAOB,MAPK1,MDM2,MPHOSPH8,NFE2L2,PHGDH,PLK1,POLB,POLH,POLI,PPARD,RECQL,RORC,TARDBP,TDP1,TP53 and USP1.",
+        "source": "proteins2\\1,4-Benzoquinone.csv"
+    },
+    {
+        "question": "Does 1,4-Benzoquinone target the human protein MAOA?",
+        "answer": "Yes, 1,4-Benzoquinone target the human protein MAOA.",
+        "source": "proteins2\\1,4-Benzoquinone.csv"
+    },
+    {
+        "question": "Which phytochemical targets the human protein GSTA2?",
+        "answer": "The human protein GSTA2 is trageted by phytochemical Cumene.",
+        "source": "proteins2\\Cumene.csv"
+    },
+    {
+        "question": "Which human protein is targeted by Curcumin?",
+        "answer": "Phytochemical Curcumin targets the human protein ABCB1,ABCC1,ACHE,ADRB2,AHR,ALDH1A1,ALOX12,ALOX15,ALOX15B,ALOX5,ALPG,ALPI,ALPL,ANPEP,ANTXR2,APOBEC3F,APOBEC3G,APP,AR,ATAD5,ATXN2,BACE1,BAZ2B,BCHE,BRCA1,CA1,CA12,CA13,CA14,CA2,CA3,CA4,CA5A,CA5B,CA6,CA7,CA9,CAMK1D,CAMK1G,CAMK2A,CAMK2B,CAMK2D,CAMK2G,CAMK4,CAMKK2,CASP1,CASP7,CDK16,CDK2,CDK6,CDKL1,CHEK2,CLK1,CLK2,CLK3,CSNK1G1,CSNK1G2,CSNK1G3,CXCL8,CYP1A2,CYP2B6,CYP2C9,CYP2D6,CYP3A4,DAPK3,DMPK,DNMT1,DNMT3B,EGFR,EHMT2,EP300,ERG,ESR1,F3,FEN1,GAA,GBA1,GLO1,GLS,GMNN,GNAS,GSK3B,HBB,HIF1A,HPGD,HSD11B1,HSD11B2,HSD17B10,HSD17B3,HSPA5,HTT,IAPP,IDH1,JAK1,JUN,KAT5,KCNH2,KDM4A,KDM4E,KMT2A,LMNA,MAOA,MAOB,MAP2K2,MAP2K6,MAP3K5,MAPK1,MAPK11,MAPK3,MAPK6,MAPT,MBNL1,MMP13,MMP9,NEK2,NEK6,NFE2L2,NFKB1,NOS2,NPSR1,NR1H4,NR3C1,OXSR1,PAK4,PAK5,PAK6,PBK,PDE4D,PDPK1,PIM1,PIM2,PIM3,PIN1,PKM,PLK1,PLK4,POLB,POLI,POLK,PPARD,PPARG,PRKAA2,PRKACA,PRKCD,PRKCE,PRKCQ,PRMT1,PTGES,PTGS1,PTGS2,PTPN1,RAPGEF4,RIOK2,RORC,RPS6KA3,RXRA,SLCO1B1,SLCO1B3,SLK,SMAD2,SMAD3,SNCA,STAT1,STAT3,STK10,STK16,STK17A,STK25,STK26,STK38,STK4,TARDBP,TDP1,TERT,THRB,TLR9,TNIK,TOP1,TOP2A,TP53,TSG101,TSHR,TYR,USP1,USP2,VDR,VRK1,VRK2,VRK3 and WEE1.",
+        "source": "proteins2\\Curcumin.csv"
+    },
+    {
+        "question": "Does the phytochemical Diphenylamine target IGF1R?",
+        "answer": "Yes, the phytochemical Diphenylamine target IGF1R. ",
+        "source": "proteins2\\Diphenylamine.csv"
+    },
+    {
+        "question": "Which protein is targeted by the phytochemical Genistein?",
+        "answer": "The phytochemical Genistein target proteins such as ABCB1,ABCC1,ABCC2,ABCG2,ABL1,ACHE,ADORA1,ADORA2A,ADORA3,ADRA1D,ADRA2A,ADRA2B,ADRA2C,ADRB1,ADRB2,ADRB3,AGTR2,AHR,AKR1B1,AKT1,ALDH1A1,ALDH2,ALOX15,AMY1A,AOX1,AR,ATAD5,ATXN2,AVPR1A,BCHE,BDKRB2,BLM,BMX,BRCA1,CA2,CALCR,CAMK1D,CAMK1G,CAMK2A,CAMK2B,CAMK2D,CAMK2G,CAMK4,CAMKK2,CASP1,CBR1,CBR3,CCKAR,CCR2,CCR4,CCR5,CDK16,CDK2,CDK6,CDKL1,CFTR,CHEK2,CHRM1,CHRM2,CHRM3,CHRM4,CHRM5,CLK1,CLK2,CLK3,CNR1,CSNK1G1,CSNK1G2,CSNK1G3,CTSG,CXCR1,CXCR2,CYCS,CYP19A1,CYP1A2,CYP2A6,CYP2C19,CYP2C9,CYP2D6,CYP2E1,CYP3A4,CYSLTR1,DAPK1,DAPK3,DMPK,DNMT1,DPP4,DRD1,DRD2,DRD3,DRD4,EDNRA,EGFR,EHMT2,ELANE,ERBB2,ESR1,ESR2,ESRRA,ESRRB,F2,FEN1,FLT1,FYN,GBA1,GLP1R,GLS,GMNN,GSK3B,HDAC6,HDAC7,HIF1A,HMGCR,HPGD,HRH1,HRH2,HSD17B1,HSD17B2,HSD17B7,HSPA5,HTR2A,HTR2B,HTR2C,HTR6,JAK1,KCNH2,LCK,LMNA,MAOA,MAOB,MAP2K2,MAP2K4,MAP2K6,MAP3K5,MAPK1,MAPK11,MAPK14,MAPK3,MAPK6,MAPT,MC3R,MC4R,MC5R,MGAM,MMP1,MMP9,MPHOSPH8,NEK2,NEK6,NEU2,NFE2L2,NPC1,NPY1R,NPY2R,NR1H2,NR1H3,NR1H4,NR3C1,ODC1,OPRD1,OPRK1,OPRM1,OXSR1,PAK4,PAK5,PAK6,PBK,PDE5A,PDPK1,PIM1,PIM2,PIM3,PKM,PLK1,PLK4,PMP22,POLB,POLH,PON1,PPARD,PPARG,PPP3CA,PRKAA2,PRKACA,PRKCA,PSMB5,PTAFR,PTGS1,PTGS2,PTH1R,PTPN1,PTPRC,RAB9A,RIOK2,RPS6KA3,RXRA,SHBG,SIGMAR1,SLC2A1,SLC6A2,SLC6A3,SLC6A4,SLCO1B1,SLCO1B3,SLCO2B1,SLK,SMN1,SMPD1,SRC,STAT3,STK10,STK16,STK17A,STK25,STK26,STK38,STK4,SYK,TACR1,TACR2,TBXAS1,TDP1,THPO,THRB,TNIK,TOP1,TOP2A,TOP2B,TP53,TSHR,TTR,UGT1A10,UGT1A9,VDR,VIPR1,VRK1,VRK2,VRK3,XDH and YES1.",
+        "source": "proteins2\\Genistein.csv"
+    },
+    {
+        "question": "Which phytochemical targets the human protein CLK1?",
+        "answer": "The phytochemicals targeting CLK1 are Apigenin,Curcumin,Epigallocatechin gallate,Genistein,Harmine,Piceatannol and Quercetin.",
+        "source": "proteins2\\Curcumin.csv"
+    },
+    {
+        "question": "What human protein does Kanzonol B target?",
+        "answer": "The phytochemical Kanzonol B target proteins such as NFE2L2,PTPN1 and TYR.",
+        "source": "proteins2\\Kanzonol B.csv"
+    },
+    {
+        "question": "Which phytochemical targets the human protein HDAC6?",
+        "answer": "The phytochemicals targeting HDAC6 are (+)-Linalool;(-)-beta-Bourbonene;(-)-Epicatechin gallate;(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene;1,4-Dihydroxyanthraquinone;1-Octacosanol;10-Hydroxy-16-hentriacontanone;2,3,5,6-Tetramethylpyrazine;2,3-Butanediol;2,4-Difurfurylfuran;2,4-Pentadienal;2,5-Dihydroxy-3-undecyl-1,4-benzoquinone potassium;2-Furylacetone;2-Methoxycarbonyl-6-oxo-3-[2,3,4-trihydroxy-6-[4-hydroxy-6-(hydroxymethyl)-2-(3,4,5-trihydroxybenzoyl)oxyoxan-3-yl]oxycarbonylphenyl]oxane-4-carboxylic acid;2-Methyl-2-phytyl-6-chromanol;2-Methylbutyl butyrate;2-Phenylbenzimidazole;2-Propionylpyridine;20-Hydroxyecdysone;4,5-Dihydroxy-2-hydroxymethyl-1,3,6,8-tetranitroanthraquinone;4-(2-Aminopropyl)phenol;5-Hydroxymethylfurfural;6-Camphenol;6-Hydroxyshogaol;9-Eicosyne;9-Heptacosene;9-Hexacosene;9-Tetracosene;Aldobiouronic acid;all-trans-Neoxanthin;Allantoin;Aloe emodin;alpha-Carotene;alpha-Teresantalic acid;alpha-trans-Bergamotenol;Anthraquinone;Apigenin;Arecoline;Baicalein;Barbaloin;Berberine;Bergapten;Bergenin;beta-Acoradiene;beta-Asarone;beta-Calacorene;beta-Carotene;beta-Caryophyllene;beta-Cedrene;beta-Duprezianane;beta-Elemene;beta-Farnesene;beta-Gurjunene;beta-Hydrastine;beta-Longipinene;beta-Oplopenone;beta-Patchoulene;beta-Rotunol;beta-Santalal;beta-Santalene;beta-Sitosterol;beta-Thujene;beta-Vetivene;beta-Vetivenene;Betulin;Betulinic acid;Biotin;Butyl butyrate;Butyl decanoate;Butylated hydroxytoluene;Butyric acid;Caffeic acid;Camphor;Capsaicin;Cedrol;Chlorogenic acid;Cholecalciferol;Chrysophanol;Cianidanol;Cinnamaldehyde;cis-Caffeic acid;cis-Cinnamaldehyde;Citric acid;Coronaric acid;Corosolic acid;Coumarin;Curcumol;Cyclocopacamphenic acid;D-Glucose;D-Xylose;Daucosterol;Delphinidin;delta-Elemene;delta-Guaiene;Dioscin;Diosgenin,dehydro;Diosgenin;Diosmetin;Docosanoic acid;Docosanol;Ellagic acid;Embelin;Emodin;Epigallocatechin gallate;Ergosterol;Ethyl 3-hydroxybutyrate;Ethyl butyrate;Ethyl decanoate;Ethyl palmitate;Ethylparaben;Exo-norbicycloekasantalal;Fenretinide;Ferulic acid;Fisetin;Folic;Formononetin;Furfuryl butyrate;Furfuryl propionate;Gallic acid;gamma-Elemene;Genistein;Glabric acid;Harman;Hexadecanal;Hexyl butyrate;Hydroquinone;Hyperoside;Indole;Inositol;Isobutyramide;Isokhusenic acid;Isopropyl myristate;Isoricinoleic Acid;Kaempferol 3-glucuronide;Kaempferol;Lauric acid;Linalool;Liquiritigenin-7,4'-diglucoside;Liquiritigenin;Lutein 5,6-epoxide;Lutein;Luteolin;Macelignan;Malvalic acid;Mesaconic acid;Mesuanic acid;Methoxsalen;Methyl 3-hydroxybutyrate;Methyl caffeic acid;Methyl palmitate;Methyl salicylate;Morin;Myricetin 3-galactoside;Myricetin-3-arabinoside;Nicotine;Nicotinic acid;Norecasantalic acid;Octacosanal;Octadecanal;Paeonol;Palmatine chloride;Palmatine;Pantothenic acid;Petroselaidic acid;Phenethyl decanoate;Phenyl propionate;Phloroglucinol;Piceatannol;Pinocembrin;Piperlongumine;Piperlonguminine;Procyanidin B2;Psoralen;Pyridoxine;Resorcinol;Resveratrol;Retinol;Retrofractamide A;Retrofractamide C;Riboflavin;Ruberythric acid;Rutin;Saccharin;Salicylic acid;Salvial-4(14)-en-1-one;Santene;Sarsasapogenin;Sclareol;Serotonin;Stigmasterol glucoside;Stigmasterol;Taxifolin;Tetrahydropalmatine;Thymol acetate;Tomentosic acid;trans-2-Icosenoic acid;trans-alpha-Bergamotene;trans-Zeatin;Triacontanoic acid;Uric acid;Vanillin;Ximenynic acid;Zeatin riboside and Zizanoic acid.",
+        "source": "proteins2\\2,3,5,6-Tetramethylpyrazine.csv"
+    },
+    {
+        "question": "Which human protein does Rutin target?",
+        "answer": "The phytochemical Rutin target proteins such as ABCC1,ABCG2,ACHE,ADRA2A,ADRA2C,AKR1B1,AKR1B10,APEX1,BACE1,BCHE,CFTR,CYCS,CYP3A4,DPP4,EHMT2,EPHX2,ESR1,F2,FBP1,GAA,HDAC6,KCNA5,KCNH2,KDM1A,KDM4E,LDHA,MAOA,MAPK1,MAPT,MBNL1,NMUR2,POLB,POLK,PREP,PTGS2,SLCO2B1,TOP2A,TYR and XDH.",
+        "source": "proteins2\\Rutin.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein TBK1?",
+        "answer": "The KEGG pathways involved by protein TBK1 are RIG-I-like receptor signaling pathway,Cytosolic DNA-sensing pathway,Lipid and atherosclerosis,Human immunodeficiency virus 1 infection,Epstein-Barr virus infection,NOD-like receptor signaling pathway,Hepatitis B,Coronavirus disease,Kaposi sarcoma-associated herpesvirus infection,IL-17 signaling pathway and Influenza A.",
+        "source": "pathway\\abhayarishta.csv"
+    },
+    {
+        "question": "Does the protein IL2 participate in the Coronavirus disease pathway?",
+        "answer": "Yes, the protein IL2 participate in the Coronavirus disease pathway.",
+        "source": "pathway\\amritarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein STS?",
+        "answer": "The KEGG pathways involved by protein STS are Steroid hormone biosynthesis.",
+        "source": "pathway\\arjunarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway does the protein DRD2 participate in?",
+        "answer": "The protein DRD2 participates in Dopaminergic synapse,cAMP signaling pathway,Neuroactive ligand-receptor interaction,Gap junction and Cocaine addiction.",
+        "source": "pathway\\arjunarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein TP53?",
+        "answer": "The KEGG pathways involved by protein TP53 are Non-small cell lung cancer,Thyroid hormone signaling pathway,MicroRNAs in cancer,Prostate cancer,PI3K-Akt signaling pathway,Viral carcinogenesis,Pathways in cancer,Proteoglycans in cancer,Colorectal cancer,Bladder cancer,Shigellosis,Cell cycle,Breast cancer,Pancreatic cancer,Central carbon metabolism in cancer,Human T-cell leukemia virus 1 infection,Endometrial cancer,Cellular senescence,Epstein-Barr virus infection,Hepatitis B,Chronic myeloid leukemia,Neurotrophin signaling pathway and Apoptosis.",
+        "source": "pathway\\arjunarishta.csv"
+    },
+    {
+        "question": "Which protein participates in the Bile secretion pathway?",
+        "answer": "The proteins particiapting in Bile secretion pathway are ABCG2,CFTR,NR1H4,RXRA,UGT1A10,UGT1A3,UGT1A4,UGT1A6,UGT1A7,UGT1A8,UGT1A9,UGT2A1,UGT2B17 and UGT2B7.",
+        "source": "pathway\\arjunarishta.csv"
+    },
+    {
+        "question": "Does the protein TRPV1 participate in the Neuroactive ligand-receptor interaction pathway?",
+        "answer": "Yes, the protein TRPV1 participate in the Neuroactive ligand-receptor interaction pathway.",
+        "source": "pathway\\arjunarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein SMAD2?",
+        "answer": "The KEGG pathways involved by protein SMAD2 are Pathways in cancer,Proteoglycans in cancer,Colorectal cancer,Cell cycle,Pancreatic cancer,Human T-cell leukemia virus 1 infection,Th17 cell differentiation and AGE-RAGE signaling pathway in diabetic complications.",
+        "source": "pathway\\arjunarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway does the protein NLRP3 participate in?",
+        "answer": "The protein NLRP3 participates in Coronavirus disease,Lipid and atherosclerosis,Influenza A,NOD-like receptor signaling pathway and Necroptosis.",
+        "source": "pathway\\ashokarishta.csv"
+    },
+    {
+        "question": "Which protein participates in the Morphine addiction pathway?",
+        "answer": "The proteins participating in Morphine addiction pathway are ARRB1,ARRB2,DRD1,GNAS,GNB1,GNG2,PDE1A,PDE3A,PDE4A and PDE4D.",
+        "source": "pathway\\ashokarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein AMY2A?",
+        "answer": "The KEGG pathways involved by protein AMY2A is Starch and sucrose metabolism.",
+        "source": "pathway\\ashwagandharishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway does the protein STAT1 participate in?",
+        "answer": "The KEGG pathways participated by protein STAT1 are Thyroid hormone signaling pathway,Pathways in cancer,Pancreatic cancer,Measles,Epstein-Barr virus infection,Kaposi sarcoma-associated herpesvirus infection,PD-L1 expression and PD-1 checkpoint pathway in cancer,Toxoplasmosis,Tuberculosis,AGE-RAGE signaling pathway in diabetic complications,Coronavirus disease,Hepatitis B,Chemokine signaling pathway,Th17 cell differentiation and Osteoclast differentiation.",
+        "source": "pathway\\ashwagandharishta.csv"
+    },
+    {
+        "question": "Which protein participates in the Rheumatoid arthritis pathway?",
+        "answer": "The proteins participating in Rheumatoid arthritis pathway are FLT1,ICAM1,MMP3 and TLR2.",
+        "source": "pathway\\balarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein FGF22?",
+        "answer": "The KEGG pathways involved by protein FGF22 are Calcium signaling pathway,PI3K-Akt signaling pathway,Pathways in cancer,MAPK signaling pathway,Rap1 signaling pathway and Ras signaling pathway.",
+        "source": "pathway\\usheerasava.csv"
+    },
+    {
+        "question": "Does the protein ACE2 participate in the Protein digestion and absorption pathway?",
+        "answer": "Yes, the protein ACE2 participate in the Protein digestion and absorption pathway.",
+        "source": "pathway\\saraswatarishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein HTR1D?",
+        "answer": "The KEGG pathways involved by protein HTR1D are Serotonergic synapse,cAMP signaling pathway and Neuroactive ligand-receptor interaction.",
+        "source": "pathway\\drakshadi kashayam.csv"
+    },
+    {
+        "question": "Which protein participates in the Focal adhesion pathway?",
+        "answer": "The proteins participating in Focal adhesion pathway are AKT2,AKT3,BCL2,CDC42,EGFR,FYN,GSK3B,IGF1R,JUN,PAK1,PAK4,PAK5,PAK6,PDPK1,RAC1,RHOA,ROCK1 and XIAP.",
+        "source": "pathway\\drakshadi kashayam.csv"
+    },
+    {
+        "question": "Which KEGG pathway involves the protein UGT2B17?",
+        "answer": "The KEGG pathways involved by protein UGT2B17 are Porphyrin and chlorophyll metabolism,Ascorbate and aldarate metabolism,Steroid hormone biosynthesis,Pentose and glucuronate interconversions,Chemical carcinogenesis,Bile secretion,Drug metabolism,Metabolism of xenobiotics by cytochrome P450 and Retinol metabolism.",
+        "source": "pathway\\drakshadirishta.csv"
+    },
+    {
+        "question": "Which KEGG pathway does the protein PYGL participate in?",
+        "answer": "The KEGG pathways participated by protein PYGL are Starch and sucrose metabolism,Insulin resistance and Glucagon signaling pathway.",
+        "source": "pathway\\amritarishta.csv"
+    },
+    {
+        "question": "Which protein participates in the Cholesterol metabolism pathway?",
+        "answer": "The proteins participating in Cholesterol metabolism pathway are CETP,LIPG,NPC1 and SOAT1.",
+        "source": "pathway\\kutajarishta.csv"
+    }
+]

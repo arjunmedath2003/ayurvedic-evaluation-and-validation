@@ -1,0 +1,264 @@
+{
+  "arjunarishta": {
+    "ingredients": [
+      "Terminalia arjuna",
+      "Vitis vinifera",
+      "Woodfordia fruticosa",
+      "Madhuca longifolia"
+    ],
+    "benefits": [
+      "Cardiotonic: supports healthy heart function and circulation.",
+      "Helps manage symptoms of heart weakness, palpitations and post-heart conditions.",
+      "Antioxidant properties that support cardiovascular health."
+    ]
+  },
+  "draksharishta": {
+    "ingredients": [
+      "Vitis vinifera",
+      "Woodfordia fruticosa",
+      "Cinnamomum tamala",
+      "Piper nigrum",
+      "Mesua ferrea"
+    ],
+    "benefits": [
+      "Digestive tonic: supports digestion and relieves mild digestive complaints.",
+      "Nutritive and rejuvenating — used for general debility and weakness.",
+      "Supports liver and blood health."
+    ]
+  },
+  "abhayarishta": {
+    "ingredients": [
+      "Terminalia chebula",
+      "Vitis vinifera",
+      "Woodfordia fruticosa",
+      "Embelia ribes"
+    ],
+    "benefits": [
+      "Digestive support and mild laxative — helps relieve constipation.",
+      "Supports intestinal health and regularity.",
+      "Traditionally used to support elimination and detoxification."
+    ]
+  },
+  "ashwagandharishta": {
+    "ingredients": [
+      "Withania somnifera",
+      "Woodfordia fruticosa",
+      "Rubia cordifolia",
+      "Curcuma longa",
+      "Santalum album"
+    ],
+    "benefits": [
+      "Rasayana (rejuvenative): supports strength, stamina and vitality.",
+      "Adaptogenic and nervine tonic — supports stress resilience and sleep.",
+      "May support libido and reproductive health."
+    ]
+  },
+  "dasamoolarishta": {
+    "ingredients": [
+      "Vitis vinifera",
+      "Woodfordia fruticosa",
+      "Phyllanthus emblica",
+      "Tribulus terrestris"
+    ],
+    "benefits": [
+      "Respiratory and anti-inflammatory: used in cough, cold and fever.",
+      "Helps reduce body aches and supports musculoskeletal comfort.",
+      "Supports general debility and recovery after illness."
+    ]
+  },
+  "kumaryasava": {
+    "ingredients": [
+      "Aloe vera",
+      "Woodfordia fruticosa",
+      "Terminalia chebula",
+      "Myristica fragrans",
+      "Saccharum officinarum"
+    ],
+    "benefits": [
+      "Digestive and uterine tonic: aloe-based formula used for gynecological health.",
+      "Mild laxative and digestive aid.",
+      "Soothing for gastric irritation and supporting female reproductive balance."
+    ]
+  },
+  "kutajarishta": {
+    "ingredients": [
+      "Holarrhena pubescens",
+      "Woodfordia fruticosa",
+      "Vitis vinifera",
+      "Gmelina arborea"
+    ],
+    "benefits": [
+      "Antidiarrheal and antiprotozoal — traditionally used for diarrhea and dysentery.",
+      "Supports gastrointestinal balance and reduces intestinal upset.",
+      "Helps control loose stools and digestive infections."
+    ]
+  },
+  "ashokarishta": {
+    "ingredients": [
+      "Saraca asoca",
+      "Woodfordia fruticosa",
+      "Cyperus rotundus",
+      "Zingiber officinale"
+    ],
+    "benefits": [
+      "Uterine tonic — commonly used for menstrual irregularities and excessive bleeding.",
+      "Supports female reproductive health and relieves dysmenorrhea.",
+      "May help regulate menstrual cycles and reduce pelvic discomfort."
+    ]
+  },
+  "saraswatarishta": {
+    "ingredients": [
+      "Bacopa monnieri",
+      "Woodfordia fruticosa",
+      "Asparagus racemosus",
+      "Zingiber officinale",
+      "Vitis vinifera"
+    ],
+    "benefits": [
+      "Nervine tonic: supports memory, learning, and cognitive clarity.",
+      "Helps with nervous exhaustion, poor concentration and sleep issues.",
+      "Traditionally used to support speech and childhood development."
+    ]
+  },
+  "amritarishta": {
+    "ingredients": [
+      "Tinospora sinensis",
+      "Woodfordia fruticosa",
+      "Cuminum cyminum",
+      "Zingiber officinale"
+    ],
+    "benefits": [
+      "Immune-modulatory and antipyretic — supports resistance to infections.",
+      "Supports digestion and appetite.",
+      "Helps reduce low-grade fevers and supports general vitality."
+    ]
+  },
+  "balarishta": {
+    "ingredients": [
+      "Sida cordifolia",
+      "Woodfordia fruticosa",
+      "Withania somnifera",
+      "Elettaria cardamomum",
+      "Saccharum officinarum"
+    ],
+    "benefits": [
+      "Pediatric nutritive tonic — supports growth, strength and weight gain in children.",
+      "Nervine and muscle tonic: supports developmental milestones and vitality.",
+      "Used to improve appetite and digestion in young children."
+    ]
+  },
+  "chandanasava": {
+    "ingredients": [
+      "Santalum album",
+      "Woodfordia fruticosa",
+      "Cyperus rotundus",
+      "Nymphaea nouchali",
+      "Vitis vinifera"
+    ],
+    "benefits": [
+      "Cooling and diuretic — helpful for heat-related conditions and urinary issues.",
+      "Supports skin health and reduces inflammation from internal heat.",
+      "Traditionally used for urinary tract irritation and excessive body heat."
+    ]
+  },
+  "usheerasava": {
+    "ingredients": [
+      "Chrysopogon zizanioides",
+      "Woodfordia fruticosa",
+      "Vitis vinifera",
+      "Nelumbo nucifera"
+    ],
+    "benefits": [
+      "Cooling, diuretic and calming — supports fever reduction and urinary health.",
+      "Helpful for conditions with internal heat and thirst.",
+      "Used for mild anxiety and sleep disturbances due to restlessness."
+    ]
+  },
+  "khadirarishta": {
+    "ingredients": [
+      "Areca catechu",
+      "Woodfordia fruticosa",
+      "Berberis aristata",
+      "Piper longum"
+    ],
+    "benefits": [
+      "Supports skin and wound-related issues and helps manage bleeding disorders.",
+      "Traditionally used in chronic skin conditions and ulcers.",
+      "May support gastrointestinal balance and oral health."
+    ]
+  },
+  "vasarishta": {
+    "ingredients": [
+      "Justicia adhatoda",
+      "Woodfordia fruticosa",
+      "Cinnamomum verum",
+      "Elettaria cardamomum"
+    ],
+    "benefits": [
+      "Respiratory support: used in cough, bronchitis and asthma-related complaints.",
+      "Expectorant and broncho-protective — helps relieve chest congestion.",
+      "Supports clear breathing and pulmonary comfort."
+    ]
+  },
+  "drakshadi kashayam": {
+    "ingredients": [
+      "Vitis vinifera",
+      "Madhuca longifolia",
+      "Glycyrrhiza glabra",
+      "Symplocos racemosa"
+    ],
+    "benefits": [
+      "Nutritive and restorative decoction — supports strength and digestion.",
+      "Used for coughs, mild respiratory complaints and general debility.",
+      "Cooling and nourishing effects for weakness or convalescence."
+    ]
+  },
+  "arjuna ghrita": {
+    "ingredients": [
+      "Terminalia arjuna"
+    ],
+    "benefits": [
+      "Cardiac support: ghee-based preparation of Terminalia arjuna for heart health.",
+      "Nourishing and restorative — supports circulation and cardiac tissue.",
+      "Used as a cardiotonic and to aid recovery after cardiac strain."
+    ]
+  },
+  "drakshavaleha": {
+    "ingredients": [
+      "Vitis vinifera",
+      "Piper longum",
+      "Glycyrrhiza glabra",
+      "Zingiber officinale"
+    ],
+    "benefits": [
+      "Nutritive tonic and rejuvenator — promotes strength and vitality.",
+      "Digestive support and mild aperient (helps regularity).",
+      "Traditionally used as an aphrodisiac and general restorative."
+    ]
+  },
+  "pippalyasava": {
+    "ingredients": [
+      "Piper longum",
+      "Woodfordia fruticosa",
+      "Vitis vinifera",
+      "Embelia ribes"
+    ],
+    "benefits": [
+      "Respiratory and digestive stimulant — supports chronic cough and digestion.",
+      "Helps improve appetite and metabolic fire (agni).",
+      "Used for chronic respiratory weakness and convalescence."
+    ]
+  },
+  "rodhrasava": {
+    "ingredients": [
+      "Symplocos racemosa",
+      "Woodfordia fruticosa",
+      "Areca catechu"
+    ],
+    "benefits": [
+      "Uterine and reproductive tonic — supports female reproductive balance.",
+      "Traditionally used to manage excessive bleeding and pelvic weakness.",
+      "Nutrient-replenishing after childbirth and for menstrual disorders."
+    ]
+  }
+}
